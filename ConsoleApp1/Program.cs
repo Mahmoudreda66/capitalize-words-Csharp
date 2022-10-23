@@ -1,5 +1,4 @@
-﻿
-while (true)
+﻿while (true)
 {
     string? str = "", newSentence = "";
 
