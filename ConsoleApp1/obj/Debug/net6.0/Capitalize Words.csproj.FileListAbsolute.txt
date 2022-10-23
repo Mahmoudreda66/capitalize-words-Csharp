@@ -1,0 +1,15 @@
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Capitalize Words.exe
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Capitalize Words.deps.json
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Capitalize Words.runtimeconfig.json
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Capitalize Words.dll
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Capitalize Words.pdb
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.csproj.AssemblyReference.cache
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.AssemblyInfoInputs.cache
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.AssemblyInfo.cs
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.csproj.CoreCompileInputs.cache
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.dll
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Capitalize Words.dll
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.pdb
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Capitalize Words.genruntimeconfig.cache
+C:\Users\CompUlanD ™\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Capitalize Words.dll
